@@ -12,9 +12,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+This is my solution to building QR code Component for Frontend Mentor using HTML & CSS
 
 ### Screenshot
 
@@ -57,6 +57,8 @@ html {
 }
 .heading {
   font-size: 3.6rem;
+  /* Using the css variable */
+  background-color: var(--slate-300);
 }
 ```
 
