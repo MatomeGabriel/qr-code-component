@@ -22,8 +22,8 @@ This is my solution to building QR code Component for Frontend Mentor using HTML
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/MatomeGabriel/qr-code-component)
+- Live Site URL: (https://matomegabriel.github.io/qr-code-component/)
 
 ## My process
 
@@ -68,6 +68,7 @@ In the futire I'll focus on mastering front end development, including getting c
 
 ## Author
 
-<!-- - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
+<!-- - Website - [Add your name here](https://www.your-site.com -->
+
+- Frontend Mentor - [@MatomeGabriel](https://www.frontendmentor.io/profile/MatomeGabriel)
+<!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
